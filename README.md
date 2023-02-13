@@ -1,6 +1,10 @@
+layout: page
+title: "Portfolio"
+permalink: 
+
 # Welcome
 
-This is my portfolio containing some of the projects I have worked on.
+My name is Thomas Bezerra and this is my portfolio containing some of the projects I have worked on.
 
 
 ## Unnamed Tower Defence Game
