@@ -3,7 +3,7 @@
 My name is Thomas Bezerra and this is my portfolio containing some of the projects I have worked on.
 
 ## Plundering Patrick
-
+[<img src="Plundering Patrick/Plundering Patrick Cover.jpg" width="550"/>](Plundering Patrick/PP.md)
 
 This was my first group project in university where we decided to make a stealth game where you play as a pirate. The player has a cutlass and pistol with limited ammunition, these two tools allow him to dispatch enemies by sneaking up behind them or engaging in open combat. While very rudementary it taught me a lot about not only working with others over github but also more generally about how to program and structure projects for group work.
 
