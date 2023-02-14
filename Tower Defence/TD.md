@@ -14,7 +14,7 @@ As in other tower defence games you will attempt to fight off advancing enemies 
 
 <img src="Tower Defence Placement.jpg" align="left" width="300">
 The player can place a tower anywhere that isn't on the track or on another tower. <br clear="left" />
-
+<br />
 <img src="Tower Defence Upgrading.jpg" align="left" width="300">
 Each tower also has three upgrades that will improve the performance of it by increasing stats such as firing speed, range, damage, and penetration. Selling a tower will give back a percentage of the money invested into it. This includes the initial cost and all of the upgrade costs. <br clear="left" />
 

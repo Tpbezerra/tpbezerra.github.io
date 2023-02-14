@@ -25,13 +25,13 @@ The player controls Patrick with some different movement abilities such as walki
 
 <img src="Plundering Patrick Interaction.jpg" align="left" width="300">
 The player also has the ability to interact with objects such as picking up items, holding bottles, and reading. <br clear="left" />
-
+<br />
 <img src="Plundering Patrick Inventory.jpg" align="left" width="300">
 Picked up items are added to the player's inventory which other interactables may require to be used. <br clear="left" />
-
+<br />
 <img src="Plundering Patrick Throwing.jpg" align="left" width="300">
 Held bottles will holster the cutlass and can be thrown to make a sound which distracts enemies. <br clear="left" />
-
+<br />
 <img src="Plundering Patrick Reading.jpg" align="left" width="250">
 Reading anything will bring up an interface with text. There are also doors and chests which can be opened around the map. <br clear="left" />
 <br />
