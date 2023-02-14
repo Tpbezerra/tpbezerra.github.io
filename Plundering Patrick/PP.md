@@ -16,7 +16,7 @@ Programming: <br />
     - Humanoid model and animations (movement, climbing, sliding, attacking, aiming) <br />
     - Cutlass and pistol <br />
     - Misc (bottles, gold, pouch, compass, chest, fountain, hats, tree) <br />
- <br />
+<br />
 While the models and animations are very simple and rudementary this project was one of the first ones where the animations played a big part in the game. This, for me, was very useful as I was able to get better at connecting animation to movement. This project was also the one where I did a lot of refinement to make it feel good. While the animations are lacking, the movement feels very good which I am proud of. I also got to implement multiple different systems in one project. Overall it is very simple and looks like nothing more than a prototype but it did teach me a lot about working over git and how to write better, more understandable, code.
 
 ## Patrick
