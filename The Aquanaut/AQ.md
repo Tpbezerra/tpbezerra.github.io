@@ -41,4 +41,13 @@ When close to objects the player can interact with a prompt will appear telling 
 Large crystals will replenish the player's crystals and max out their health. <br clear="left" />
 
 ## Enemies
-Each enemy has a set of attacks that they can perform, these can then lead into other attacks for longer attack chains. There are three types of enemy, a sword enemy with more sweeping and AOE attacks but lower range; a trident enemy with longer range but less area; and a harpoon thrower that tries to stay away while attacking from range, when up close they can kick the player away.
+Each enemy has a set of attacks that they can perform, these can then lead into other attacks for longer attack chains.
+
+<img src="The Aquanaut Combat.jpg" align="left" width="300">
+There are three types of enemy, a sword enemy with more sweeping and AOE attacks but lower range; a trident enemy with longer range but less area; and a harpoon thrower that tries to stay away while attacking from range, when up close they can kick the player away. <br clear="left" />
+<br />
+<img src="The Aquanaut Execution.jpg" align="left" width="300">
+Attacking an enemy will increase their poise and deal slight damage to their health. Once their poise reaches its max value the enemy gets stunned and takes a lot more damage. <br clear="left" />
+<br />
+<img src="The Aquanaut Dead Enemy.jpg" align="left" width="300">
+When the enemies die they play a short animation before exploding into a puff of smoke, leaving only small trails behind. <br clear="left" />
