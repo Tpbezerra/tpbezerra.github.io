@@ -11,6 +11,9 @@ Each tower also has three upgrades that will improve the performance of it by in
 
 Selling a tower will give back a percentage of the money invested into it. This includes the initial cost and all of the upgrade costs.
 
+## Enemies
+The enemies follow predefined paths and once they reach the end of that path the player loses health. They spawn with differing amounts of health and move faster the more they have. Their colour changes to reflect this health and speed.
+
 ## Contributions
 As this was a solo project I implemented everything alone. For this project I didn't make any custom models, instead making use of the sunoke shapes available in Unity. The features I implemented are: <br />
     - Economy <br />
