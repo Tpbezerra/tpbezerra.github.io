@@ -3,8 +3,9 @@
 ## Contributions
 For this project I programmed everything, did some of the modelling and all of the animations, and designed the UI. <br />
 Programming: <br />
+    - Camera <br />
     - Movement <br />
-    - Attacking <br />
+    - Attacking & blocking/parrying <br />
     - Interactions <br />
     - Objectives <br />
     - Inventory <br />
@@ -17,7 +18,7 @@ Programming: <br />
     - Cutlass and pistol <br />
     - Misc (bottles, gold, pouch, compass, chest, fountain, hats, tree) <br />
 <br />
-While the models and animations are very simple and rudementary this project was one of the first ones where the animations played a big part in the game. This, for me, was very useful as I was able to get better at connecting animation to movement. This project was also the one where I did a lot of refinement to make it feel good. While the animations are lacking, the movement feels very good which I am proud of. I also got to implement multiple different systems in one project. Overall it is very simple and looks like nothing more than a prototype but it did teach me a lot about working over git and how to write better, more understandable, code.
+This project was the first one where I did a lot of refinement to make it feel good. While the animations are lacking, the movement is crisp, which I am proud of. I also got to implement multiple different systems in one project. Overall it is very simple and looks like nothing more than a prototype but it did teach me a lot about working over git and how to write better, more understandable, code.
 
 ## Patrick
 The player controls Patrick with some different movement abilities such as walking, running, jumping and climbing, crouching, and sliding. Depending on how they are moving at the moment Patrick will give off different amounts of sound that the enemies can hear. The player also has the ability to interact with objects such as picking up items, holding bottles, and reading.
