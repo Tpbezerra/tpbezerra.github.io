@@ -15,7 +15,7 @@ Held bottles will holster the cutlass and can be thrown to make a sound which di
 
 Reading anything will bring up an interface with text. There are also doors and chests which can be opened around the map.
 
-<img src="Plundering Patrick Reading.jpg" width="300">
+<img src="Plundering Patrick Reading.jpg" width="250">
 
 For fighting the player has a cutlass that can be used to swing at enemies and block and parry their attacks. The pistol can be used to deal a lot of damage from range but also costs ammunition.
 
