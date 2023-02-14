@@ -1,5 +1,24 @@
 # Plundering Patrick
 
+## Contributions
+For this project I programmed everything, did some of the modelling and all of the animations, and designed the UI. <br />
+Programming: <br />
+    - Movement <br />
+    - Attacking <br />
+    - Interactions <br />
+    - Objectives <br />
+    - Inventory <br />
+    - AI <br />
+    - UI functionality <br />
+    - Settings and keybindings <br />
+ <br />
+ Modelling and animations: <br />
+    - Humanoid model and animations (movement, climbing, sliding, attacking, aiming) <br />
+    - Cutlass and pistol <br />
+    - Misc (bottles, gold, pouch, compass, chest, fountain, hats, tree) <br />
+ <br />
+While the models and animations are very simple and rudementary this project was one of the first ones where the animations played a big part in the game. This, for me, was very useful as I was able to get better at connecting animation to movement. This project was also the one where I did a lot of refinement to make it feel good. While the animations are lacking, the movement feels very good which I am proud of. I also got to implement multiple different systems in one project. Overall it is very simple and looks like nothing more than a prototype but it did teach me a lot about working over git and how to write better, more understandable, code.
+
 ## Patrick
 The player controls Patrick with some different movement abilities such as walking, running, jumping and climbing, crouching, and sliding. Depending on how they are moving at the moment Patrick will give off different amounts of sound that the enemies can hear. The player also has the ability to interact with objects such as picking up items, holding bottles, and reading.
 
@@ -22,23 +41,6 @@ For fighting the player has a cutlass that can be used to swing at enemies and b
 ## Enemies
 The enemies are controled using a FSM. They will patrol on predefined paths until they are alerted in some way, whether by spotting or hearing something or being alerted by their comrades. Once they've been alerted they will try to find the alerting presence by moving to the last known location of it. If they can't reach that position they will move to another one where they can at least see the alert location. <br />
 <br />
-If they spot the player they will alert other nearby enemies to that fact while moving to attack. Enemies can have a cutlass, pistol, or both. If they have both buyt can't reach the player they will use their pistol. At any one time two enemies can attack at once while the rest circle around, this is to make sure that the player doesn't get overwhelmed by all enemies attacking at once.
+If they spot the player they will alert other nearby enemies to that fact while moving to attack. Enemies can have a cutlass, pistol, or both. If they have both but can't reach the player they will use their pistol. At any one time two enemies can attack at once while the rest circle around, this is to make sure that the player doesn't get overwhelmed by all enemies attacking at once.
 
 <img src="Plundering Patrick Combat.jpg" width="300">
-
-## Contributions
-For this project I programmed everything, did the modelling and animations, and designed the UI. <br />
-Programming: <br />
-    - Movement <br />
-    - Attacking <br />
-    - Interactions <br />
-    - Objectives <br />
-    - Inventory <br />
-    - AI <br />
-    - UI functionality <br />
-    - Settings and keybindings <br />
- <br />
- Modelling and animations: <br />
-    - Humanoid model and animations (movement, climbing, sliding, attacking, aiming) <br />
-    - Cutlass and pistol <br />
-    - Misc (bottles, gold, pouch, compass, chest, fountain, hats, tree)
