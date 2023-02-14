@@ -35,12 +35,11 @@ The player has a few options at any given time, dodging, attacking with their sw
 There are two options when attacking, light- and heavy attacks. When attacking with the sword this means that different animations with alternate stats will play. Light and heavy attacks can then be combined to perform chain attacks. When shooting a harpoon a light attack will root the target it hits while a heavy will stun it and anyone around but also costing crystals to use. Crystals are also used for healing. <br clear="left" />
 <br />
 <img src="The Aquanaut Interaction.jpg" align="left" width="300">
-
 When close to objects the player can interact with a prompt will appear telling the player that it is possible to do so. <br clear="left" />
-
+<br />
 <img src="The Aquanaut Recharging.jpg" align="left" width="300">
-
 Large crystals will replenish the player's crystals and max out their health. <br clear="left" />
+<br />
 
 ## Enemies
 Each enemy has a set of attacks that they can perform, these can then lead into other attacks for longer attack chains. There are three types of enemy, a sword enemy with more sweeping and AOE attacks but lower range; a trident enemy with longer range but less area; and a harpoon thrower that tries to stay away while attacking from range, when up close they can kick the player away.
