@@ -3,7 +3,7 @@
 My name is Thomas Bezerra and this is my portfolio containing some of the projects I have worked on.
 
 ## [The Aquanaut](The Aquanaut/AQ.md)
-
+[<img src="The Aquanaut/The Aquanaut Cover.jpg" width="550"/>](The Aquanaut/AQ.md)
 
 This was a group project during my third year of university. We made a combat-based top-down game where dodging is the player's main way of avoiding damage. It was also decided that it would have an underwater motif taking place in a sunken city. The player controls a diesel-punk diver while fighting undead zombie-like enemies who are equipped with 3 different weapon types. At the end of the demo is a boss fight against a rock guardian.
 
