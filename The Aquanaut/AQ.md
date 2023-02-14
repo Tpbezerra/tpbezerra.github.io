@@ -39,7 +39,6 @@ When close to objects the player can interact with a prompt will appear telling 
 <br />
 <img src="The Aquanaut Recharging.jpg" align="left" width="300">
 Large crystals will replenish the player's crystals and max out their health. <br clear="left" />
-<br />
 
 ## Enemies
 Each enemy has a set of attacks that they can perform, these can then lead into other attacks for longer attack chains. There are three types of enemy, a sword enemy with more sweeping and AOE attacks but lower range; a trident enemy with longer range but less area; and a harpoon thrower that tries to stay away while attacking from range, when up close they can kick the player away.

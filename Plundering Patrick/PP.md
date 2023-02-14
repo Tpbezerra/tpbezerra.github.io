@@ -21,22 +21,20 @@ Programming: <br />
 This project was the first one where I did a lot of refinement to make it feel good. While the animations are lacking, the movement is crisp, which I am proud of. I also got to implement multiple different systems in one project. Overall it is very simple and looks like nothing more than a prototype but it did teach me a lot about working over git and how to write better, more understandable, code.
 
 ## Patrick
-The player controls Patrick with some different movement abilities such as walking, running, jumping and climbing, crouching, and sliding. Depending on how they are moving at the moment Patrick will give off different amounts of sound that the enemies can hear. The player also has the ability to interact with objects such as picking up items, holding bottles, and reading.
+The player controls Patrick with some different movement abilities such as walking, running, jumping and climbing, crouching, and sliding. Depending on how they are moving at the moment Patrick will give off different amounts of sound that the enemies can hear.
 
-<img src="Plundering Patrick Interaction.jpg" width="300">
+<img src="Plundering Patrick Interaction.jpg" align="left" width="300">
+The player also has the ability to interact with objects such as picking up items, holding bottles, and reading. <br clear="left" />
 
-Picked up items are added to the player's inventory which other interactables may require to be used.
+<img src="Plundering Patrick Inventory.jpg" align="left" width="300">
+Picked up items are added to the player's inventory which other interactables may require to be used. <br clear="left" />
 
-<img src="Plundering Patrick Inventory.jpg" width="300">
+<img src="Plundering Patrick Throwing.jpg" align="left" width="300">
+Held bottles will holster the cutlass and can be thrown to make a sound which distracts enemies. <br clear="left" />
 
-Held bottles will holster the cutlass and can be thrown to make a sound which distracts enemies.
-
-<img src="Plundering Patrick Throwing.jpg" width="300">
-
-Reading anything will bring up an interface with text. There are also doors and chests which can be opened around the map.
-
-<img src="Plundering Patrick Reading.jpg" width="250">
-
+<img src="Plundering Patrick Reading.jpg" align="left" width="250">
+Reading anything will bring up an interface with text. There are also doors and chests which can be opened around the map. <br clear="left" />
+<br />
 For fighting the player has a cutlass that can be used to swing at enemies and block and parry their attacks. The pistol can be used to deal a lot of damage from range but also costs ammunition.
 
 ## Enemies
