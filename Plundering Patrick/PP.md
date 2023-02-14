@@ -24,6 +24,8 @@ The enemies are controled using a FSM. They will patrol on predefined paths unti
 <br />
 If they spot the player they will alert other nearby enemies to that fact while moving to attack. Enemies can have a cutlass, pistol, or both. If they have both buyt can't reach the player they will use their pistol. At any one time two enemies can attack at once while the rest circle around, this is to make sure that the player doesn't get overwhelmed by all enemies attacking at once.
 
+<img src="Plundering Patrick Combat.jpg" width="300">
+
 ## Contributions
 For this project I programmed everything, did the modelling and animations, and designed the UI. <br />
 Programming: <br />

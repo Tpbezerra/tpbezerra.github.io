@@ -2,6 +2,9 @@
 
 My name is Thomas Bezerra and this is my portfolio containing some of the projects I have worked on.
 
+## [The Aquanaut](The Aquanaut/AQ.md)
+This was a group project during my third year of university. We wanted to make a combat-based top-down game where dodging would be the player's main way of avoiding damage would be by dodging. It was also decided that it would have an underwater motif taking place in a 
+
 ## [Plundering Patrick](Plundering Patrick/PP.md)
 [<img src="Plundering Patrick/Plundering Patrick Cover.jpg" width="550"/>](Plundering Patrick/PP.md)
 
