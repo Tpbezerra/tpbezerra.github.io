@@ -1,7 +1,3 @@
-# Build settings
-markdown: kramdown
-theme: Tactile
-
 # Welcome
 
 My name is Thomas Bezerra and this is my portfolio containing some of the projects I have worked on.
