@@ -10,12 +10,12 @@ I first studied programming in gymnasiet where I learned HTML, CSS and C#. While
 
 ##  What I do
 ###### Lower-level languages
-<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" align="right" width="70">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" align="right" width="70">
 <img src="https://www.vectorlogo.zone/logos/java/java-ar21.png" align="right" width="70">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" align="right" width="70">
+<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" align="right" width="70">
 - Optimise code to run faster and use less memory.
 - Problem-solve using datastructures and algorithms.
-
+<br clear="right"/>
 ###### Game engines
 - Programme the systems for games.
 - Create more complex visualisations for algorithms.
