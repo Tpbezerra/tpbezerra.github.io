@@ -1,8 +1,9 @@
 [<img src="About Button.jpg" alt="ABOUT" width="80"/>](About.md)
 [<img src="Main Button.jpg" alt="MAIN PROJECTS" width="80"/>](MainProjects.md)
 
-# Welcome
+<div align="center">
 
-<p align="left">
-    I am a passionate programmer and higly enjoy problem solving. Making scalable, maintanable, and optimised software to be used and enjoyed by others is a true love of mine.
-</p>
+# Welcome
+</div>
+
+**I am a passionate programmer and higly enjoy problem solving. Making scalable, maintanable, and optimised software to be used and enjoyed by others is a true love of mine.**
