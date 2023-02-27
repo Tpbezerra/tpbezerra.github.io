@@ -3,7 +3,7 @@
 
 <h1 align="center"> Welcome </h1>
 
-**I am a passionate programmer and higly enjoy problem solving. Making scalable, maintanable, and optimised software to be used and enjoyed by others is a true love of mine.**
+**I am a passionate programmer and highly enjoy problem solving. Making scalable, maintanable, and optimised software to be used and enjoyed by others is a true love of mine.**
 
 ## About Me
 I first studied programming in gymnasiet where I learned HTML, CSS and C#. While using C# I also used the Unity game engine to make prototypes for games or just proofs of concept. Feeling that I had found what I really wanted to do I continued this path into Malmö University where I studied game development. During this program I learned even more C# and Unity and also began using some new languages such as C++, Java, and SQL. C++ quickly became a favourite alongside C# as I really like the low-level control it gives.
