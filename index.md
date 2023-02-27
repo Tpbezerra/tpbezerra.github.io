@@ -1,8 +1,6 @@
 <a href="About.html"> <img src="About Button.jpg" alt="ABOUT" width="80"/> </a>
 <a href="MainProjects.html"> <img src="Main Button.jpg" alt="MAIN PROJECTS" width="80"/> </a>
 
-<p align="center">
-<h1> Welcome </h1>
-</p>
+<h1 align="center"> Welcome </h1>
 
 **I am a passionate programmer and higly enjoy problem solving. Making scalable, maintanable, and optimised software to be used and enjoyed by others is a true love of mine.**
