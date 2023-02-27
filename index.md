@@ -16,6 +16,7 @@ I first studied programming in gymnasiet where I learned HTML, CSS and C#. While
 - Optimise code to run faster and use less memory.
 - Problem-solve using datastructures and algorithms.
 <br clear="right"/>
+
 ###### Game engines
 - Programme the systems for games.
 - Create more complex visualisations for algorithms.
