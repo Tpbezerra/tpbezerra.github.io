@@ -1,7 +1,5 @@
-<p align="left">
-  [<img alt="ABOUT" src="About Button.jpg" width="80"/>](About.md)
-  [<img alt="MAIN PROJECTS" src="Main Button.jpg" width="80"/>](MainProjects.md)
-</p>
+<img src="About Button.jpg" alt="ABOUT" width="80"/>(About.md)
+<img src="Main Button.jpg" alt="MAIN PROJECTS" width="80"/>(MainProjects.md)
 
 # Welcome
 
