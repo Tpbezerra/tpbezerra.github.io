@@ -6,7 +6,7 @@ Programming: <br/>
     - Camera <br/>
     - Movement <br/>
     - Attacks & combos <br/>
-    - Shooting (standard and heavy) <br ´/>
+    - Shooting (standard and heavy) <br />
     - Dodging & deflecting <br/>
     - Damage & healing <br/>
     - AI <br/>
