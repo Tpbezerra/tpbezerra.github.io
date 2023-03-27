@@ -1,38 +1,114 @@
 *
 {
-    background-color: dimgray;
+    background-color: #191919;
 }
 
 body
 {
     margin-left: 20%;
     margin-right: 20%;
-    font-family: monospace;
-    color: whitesmoke;
+    font-family: Roboto, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: rgb(220, 220, 220);
 }
 
 header
 {
-    display: -webkit-flex;
-    display: flex;
-    align-items: flex-start;
-    
-    color: whitesmoke;
+    overflow: auto;
+    padding: 0;
+    padding-top: 15px;
+
+    margin-bottom: 15px;
+
+    border-bottom: 2px solid darkcyan;
+}
+
+header div
+{
+    float: left;
 }
 
 #Links
 {
-    -webkit-flex: 1;
-    -ms-flex: 1;
+    width: 33%;
+}
 
-    flex: 1;
-    align-self: left;
+#Links *
+{
+    float: left;
+    color: rgb(220, 220, 220);
+
+    margin: 0;
+    padding: 7px;
+    padding-top: 0;
+    padding-bottom: 5px;
+    
+    text-decoration: none;
+    border-bottom: 3px solid transparent;
+}
+
+#Links a:hover
+{
+    border-bottom: 3px solid darkcyan;
+}
+
+#ActiveLink
+{
+    color: darkcyan;
+    font-weight: bold;
+    border-bottom: 3px solid darkcyan;
 }
 
 #Name
 {
-    -webkit-flex: 2;
-    -ms-flex: 2;
+    width: 34%;
+    text-align: center;
+}
 
-    flex: 2;
+#Name p
+{
+    margin: 0;
+    font-size: 21px;
+    font-weight: bold;
+}
+
+.ProjectAd
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 70%;
+    
+    border: 3px solid #292929;
+}
+
+.ProjectAd a, h2
+{
+    background-color: #363636;
+
+    color: darkcyan;
+
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 0;
+    
+    text-decoration: none;
+}
+
+.ProjectAd p
+{
+    background-color: #363636;
+    color: rgb(220, 220, 220);
+    
+    font-size: 80%;
+    
+    padding: 2%;
+    margin: 0;
+}
+
+.ProjectAd img
+{
+    max-width: 100%;
+
+    margin: 0;
 }
