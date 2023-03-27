@@ -1,4 +1,38 @@
+*
+{
+    background-color: dimgray;
+}
+
 body
 {
+    margin-left: 20%;
+    margin-right: 20%;
     font-family: monospace;
+    color: whitesmoke;
+}
+
+header
+{
+    display: -webkit-flex;
+    display: flex;
+    align-items: flex-start;
+    
+    color: whitesmoke;
+}
+
+#Links
+{
+    -webkit-flex: 1;
+    -ms-flex: 1;
+
+    flex: 1;
+    align-self: left;
+}
+
+#Name
+{
+    -webkit-flex: 2;
+    -ms-flex: 2;
+
+    flex: 2;
 }
