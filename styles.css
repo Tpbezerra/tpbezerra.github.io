@@ -15,9 +15,9 @@ body
 header
 {
     padding: 0;
-    padding-top: 15px;
+    padding-top: 25px;
 
-    margin-bottom: 15px;
+    margin-bottom: 65px;
 
     border-bottom: 2px solid darkcyan;
     
@@ -73,6 +73,39 @@ header div
     font-weight: bold;
 }
 
+#Welcome
+{
+    text-align: center;
+    margin: 0;
+    margin-bottom: 50px;
+}
+
+#Welcome h1
+{
+    margin: 0;
+    margin-bottom: 7px;
+}
+
+#Welcome p
+{
+    color: rgb(190, 190, 190);
+    font-weight: bold;
+    font-size: 95%;
+
+    margin: 0;
+}
+
+h2
+{
+    color: darkcyan;
+
+    font-weight: 600;
+    font-size: 140%;
+
+    margin-top: 45px;
+    margin-bottom: 0;
+}
+
 .ProjectAd
 {
     display: block;
@@ -113,4 +146,19 @@ header div
     max-width: 100%;
 
     margin: 0;
+}
+
+.ProjectSec
+{
+    display: block;
+    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
+    
+    width: 80%;
+}
+
+.ProjectSec ul
+{
+    list-style-type: circle;
 }

@@ -16,27 +16,46 @@
         </div>
     </header>
 
-    # Tower Defence
+    <div id="Welcome">
+        <h1>Tower Defence</h1>
+        <p>This was a first year project during a course called "Object-oriented game programming" where the task was to make a tower-defence game with distinct tower types and upgrades. 
+            The result is a simple game with pre-defined waves in the beginning and then deterministically generated waves. It ended up being quite difficult but also suprisingly fun.</p>
+    </div>
 
-    ## Contributions
-    As this was a solo project I implemented everything alone. For this project I didn't make any custom models, instead making use of the standard shapes available in Unity. The features I implemented are: <br/>
-        - Economy <br/>
-        - Distinct towers and placement <br/>
-        - Horde system <br/>
-        - Upgrades <br/>
-    <br/>
-    This was the first time I had done drag and drop style controls as well as an upgrade system. The turrents in this were also made from one script with different variables meaning that I made the script as modular as I could. I am quite happy with the upgrade system as it became easily scalable if I wanted to add more upgrades or expand to have multiple possible upgrades.
+    <div class="ProjectSec">
+        <h2>Contributions</h2>
+        <p>As this was a solo project I implemented everything alone. For this project I didn't make any custom models, instead making use of the standard shapes available in Unity. 
+            The features I implemented are:</p>
+        <ul>
+            <li>Economy</li>
+            <li>Distinct towers and placement</li>
+            <li>Horde system</li>
+            <li>Upgrades</li>
+            <li>Health & damage</li>
+            <li>UI</li>
+        </ul>
+    </div>
 
-    ## Towers
-    As in other tower defence games you will attempt to fight off advancing enemies by placing towers of different types around the map. In this game there are 4 towers, a faster shooter for shorter range, a short range tower dealing AOE damage, a long range slower firing shooter, and a non-damaging slowing tower. The towers will prioritise firing damaging the enemies that are furthes along their paths.
+    <div class="ProjectSec">
+        <h2>Towers</h2>
+        <p>As in other tower defence games you will attempt to fight off advancing enemies by placing towers of different types around the map. In this game there are 4 towers, a faster 
+            shooter for shorter range, a short range tower dealing AOE damage, a long range slower firing shooter, and a non-damaging slowing tower. The towers will prioritise firing damaging 
+            the enemies that are furthes along their paths.</p>
+    
+        <img src="Tower Defence Placement.jpg" align="left" width="300">
+        <p>The player can place a tower anywhere that isn't on the track or on another tower.</p>
+        <br clear="left">
+        
+        <img src="Tower Defence Upgrading.jpg" align="left" width="300">
+        <p>Each tower also has three upgrades that will improve the performance of it by increasing stats such as firing speed, range, damage, and penetration. Selling a tower will give back 
+            a percentage of the money invested into it. This includes the initial cost and all of the upgrade costs.</p>
+        <br clear="left">
+    </div>
 
-    <img src="Tower Defence Placement.jpg" align="left" width="300">
-    The player can place a tower anywhere that isn't on the track or on another tower. <br clear="left"/>
-    <br/>
-    <img src="Tower Defence Upgrading.jpg" align="left" width="300">
-    Each tower also has three upgrades that will improve the performance of it by increasing stats such as firing speed, range, damage, and penetration. Selling a tower will give back a percentage of the money invested into it. This includes the initial cost and all of the upgrade costs. <br clear="left"/>
-
-    ## Enemies
-    The enemies follow predefined paths and once they reach the end of that path the player loses health. They spawn with differing amounts of health and move faster the more they have. Their colour changes to reflect this health and speed.
+    <div class="ProjectSec">
+        <h2>Enemies</h2>
+        <p>The enemies follow predefined paths and once they reach the end of that path the player loses health. They spawn with differing amounts of health and move faster the more they have. 
+            Their colour changes to reflect this health and speed.</p>
+    </div>
 </body>
 </html>

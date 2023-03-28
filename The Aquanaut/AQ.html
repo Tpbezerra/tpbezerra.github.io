@@ -16,58 +16,86 @@
         </div>
     </header>
 
-    # The Aquanaut
+    <div id="Welcome">
+        <h1>The Aquanaut</h1>
+        <p>This was a 3rd year university project during a course called "Game-engine driven product development" where groups of students were tasked with making a game from start to finish 
+            with some form of constraint. Each group also got the opportunity to work with a music student from another program and a mentor from inside the industry. The constraint we were 
+            given was that it had to be a 2D game, we therefore chose a top-down perspective. The game ended up being fun and is something I am ever proud of.</p>
+    </div>
 
-    ## Contributions
-    For this project I did most of the programming, this means everything except for the main menu UI, settings, and certain parts of the boids. I also did some modelling and spent a lot of time on the design of the game. <br/>
-    Programming: <br/>
-        - Camera <br/>
-        - Movement <br/>
-        - Attacks & combos <br/>
-        - Shooting (standard and heavy) <br />
-        - Dodging & deflecting <br/>
-        - Damage & healing <br/>
-        - AI <br/>
-        - Poise <br/>
-        - Wave system <br/>
-        - Audio manager (fading music and playing sounds) <br/>
-        - Interactables <br/>
-        - Active effects <br/>
-        - CC effects <br/>
-        - Saving and loading <br/>
-        - In-game UI (not pause menu) <br/>
-    Modelling: <br/>
-        - Weapons (2 swords, trident, harpoon, harpoon gun) <br/>
-        - Basic enemies (and their armour) <br/>
-        - Crystals (save- and healing crystals) <br/>
-        - Gate <br/>
-    Design: <br/>
-        For the gameplay, and specifically combat, design it was mainly me and one other member that worked on it to balance and make it fun. The in-game UI was a collaborative effort where I would desig something and then change it according to input. <br/>
-    <br/>
-    This project was very fun to work on and also very usefull as it was the first project that required a proper start and finish for a level with scaling difficulty and a fun gameplay-loop. It also made me much better at writing sustainable code that could be expanded upon at a later date. Finally it was the first project where I had to properly think about how to make the game balanced and really fun. This lead me to getting better at exploring and bringing forward game-feel. What I am most proud of with this is how scalable and maintainable the code is as it was easy to add new features and fix any bugs that crept up.
+    <div class="ProjectSec">
+        <h2>Contributions</h2>
+        <p>For this project I did most of the programming, this means everything except for the main menu UI, settings, and the fish. I also did some modelling and spent a lot of time on the 
+            design of the game. The code in this was written to be as scalable and maintainable as possible so as to easily fix bugs and add new features.</p>
+            
+        <b>Programming:</b>
+        <ul>
+            <li>Camera</li>
+            <li>Movement</li>
+            <li>Attacks & combos</li>
+            <li>Shooting (standard and heavy)</li>
+            <li>Dodging & deflecting</li>
+            <li>Damage & healing</li>
+            <li>AI</li>
+            <li>Poise</li>
+            <li>Wave system</li>
+            <li>Audio manager (fading music and playing sounds)</li>
+            <li>Interactables</li>
+            <li>Active effects</li>
+            <li>CC effects</li>
+            <li>Saving and loading</li>
+            <li>In-game UI (not pause menu)</li>
+        </ul>
+    
+        <b>Modelling:</b>
+        <ul>
+            <li>Weapons (2 swords, trident, harpoon, harpoon gun)</li>
+            <li>Basic enemies (and their armour)</li>
+            <li>Crystals (save- and healing crystals)</li>
+            <li>Gate</li>
+        </ul>
+    
+        <b>Design:</b>
+        <p>The gameplay was mainly designed by me and one other member that worked on it to balance and make it fun. The in-game UI was a collaborative effort where I 
+            would design something and then change it according to input.</p>
+    </div>
 
-    ## The Player
-    The player has a few options at any given time, dodging, attacking with their sword, and shooting their harpoon. The dodge gives invulnerability frames for a part of it which helps the player avoid damage. During an even smaller part of it is a deflect "window" where, if timed properly, the player can deal poise damage to the attacker while on the defensive. <br/>
+    <div class="ProjectSec">
+        <h2>The Player</h2>
+        <p>The player has a few options at any given time, dodging, attacking with their sword, and shooting their harpoon. The dodge gives invulnerability frames for a part of it which helps 
+            the player avoid damage. During an even smaller part of it is a deflect "window" where, if timed properly, the player can deal poise damage to the attacker while on the defensive.</p>
+    
+        <img src="The Aquanaut Heavy Harpoon.jpg" align="left" width="300">
+        <p>There are two options when attacking, light- and heavy attacks. When attacking with the sword this means that different animations with alternate stats will play. Light and heavy 
+            attacks can then be combined to perform chain attacks. When shooting a harpoon a light attack will root the target it hits while a heavy will stun it and anyone around but also costing 
+            crystals to use. Crystals are also used for healing.</p>
+        <br clear="left">
 
-    <img src="The Aquanaut Heavy Harpoon.jpg" align="left" width="300">
-    There are two options when attacking, light- and heavy attacks. When attacking with the sword this means that different animations with alternate stats will play. Light and heavy attacks can then be combined to perform chain attacks. When shooting a harpoon a light attack will root the target it hits while a heavy will stun it and anyone around but also costing crystals to use. Crystals are also used for healing. <br clear="left"/>
-    <br/>
-    <img src="The Aquanaut Interaction.jpg" align="left" width="300">
-    When close to objects the player can interact with a prompt will appear telling the player that it is possible to do so. <br clear="left" />
-    <br/>
-    <img src="The Aquanaut Recharging.jpg" align="left" width="300">
-    Large crystals will replenish the player's crystals and max out their health. <br clear="left"/>
+        <img src="The Aquanaut Interaction.jpg" align="left" width="300">
+        <p>When close to objects the player can interact with a prompt will appear telling the player that it is possible to do so.</p>
+        <br clear="left">
+        
+        <img src="The Aquanaut Recharging.jpg" align="left" width="300">
+        <p>Large crystals will replenish the player's crystals and max out their health.</p>
+        <br clear="left">
+    </div>
 
-    ## Enemies
-    Each enemy has a set of attacks that they can perform, these can then lead into other attacks for longer attack chains.
+    <div class="ProjectSec">
+        <h2>Enemies</h2>
+        <p>Each enemy has a set of attacks that they can perform, these can then lead into other attacks for longer attack chains.</p>
+    
+        <img src="The Aquanaut Combat.jpg" align="left" width="300">
+        <p>There are three types of enemy, a sword enemy with more sweeping and AOE attacks but lower range; a trident enemy with longer range but less area; and a harpoon thrower that tries to 
+            stay away while attacking from range, when up close they can kick the player away.</p>
+        <br clear="left">
 
-    <img src="The Aquanaut Combat.jpg" align="left" width="300">
-    There are three types of enemy, a sword enemy with more sweeping and AOE attacks but lower range; a trident enemy with longer range but less area; and a harpoon thrower that tries to stay away while attacking from range, when up close they can kick the player away. <br clear="left"/>
-    <br/>
-    <img src="The Aquanaut Execution.jpg" align="left" width="300">
-    Attacking an enemy will increase their poise and deal slight damage to their health. Once their poise reaches its max value the enemy gets stunned and takes a lot more damage. <br clear="left" />
-    <br/>
-    <img src="The Aquanaut Dead Enemy.jpg" align="left" width="300">
-    When the enemies die they play a short animation before exploding into a puff of smoke, leaving only small trails behind. <br clear="left"/>
+        <img src="The Aquanaut Execution.jpg" align="left" width="300">
+        <p>Attacking an enemy will increase their poise and deal slight damage to their health. Once their poise reaches its max value the enemy gets stunned and takes a lot more damage.</p>
+        <br clear="left">
+        
+        <img src="The Aquanaut Dead Enemy.jpg" align="left" width="300">
+        <p>When the enemies die they play a short animation before exploding into a puff of smoke, leaving only small trails behind.</p>
+        <br clear="left">
+    </div>
 </body>
 </html>
