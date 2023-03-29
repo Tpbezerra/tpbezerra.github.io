@@ -19,7 +19,7 @@ header
 
     margin-bottom: 65px;
 
-    border-bottom: 2px solid darkcyan;
+    border-bottom: 2px solid rgb(145, 0, 80);
     
     overflow: auto;
 }
@@ -50,14 +50,14 @@ header div
 
 #Links a:hover
 {
-    border-bottom: 3px solid darkcyan;
+    border-bottom: 3px solid rgb(145, 0, 80);
 }
 
 #ActiveLink
 {
-    color: darkcyan;
+    color: rgb(145, 0, 80);
     font-weight: bold;
-    border-bottom: 3px solid darkcyan;
+    border-bottom: 3px solid rgb(145, 0, 80);
 }
 
 #Name
@@ -97,7 +97,7 @@ header div
 
 h2
 {
-    color: darkcyan;
+    color: rgb(145, 0, 80);
 
     font-weight: 600;
     font-size: 140%;
@@ -121,7 +121,7 @@ h2
 {
     background-color: #363636;
 
-    color: darkcyan;
+    color: rgb(145, 0, 80);
 
     padding-top: 5px;
     padding-bottom: 5px;
