@@ -162,3 +162,31 @@ h2
 {
     list-style-type: circle;
 }
+
+footer
+{
+    text-align: center;
+
+    margin-top: 50px;
+
+    border-top: 2px solid rgb(145, 0, 80);
+}
+
+#Contact
+{
+    margin-top: 15px;
+    margin-bottom: 25px;
+    font-size: 21px;
+    font-weight: bold;
+}
+
+#ContactLink
+{
+    text-decoration: none;
+    color: #0a66c2;
+}
+
+#ContactLink:hover
+{
+    color: rgb(220, 220, 220);
+}
