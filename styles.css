@@ -163,6 +163,12 @@ h2
     list-style-type: circle;
 }
 
+#SectionImg
+{
+    width: 53%;
+    margin-right: 2%;
+}
+
 footer
 {
     text-align: center;
