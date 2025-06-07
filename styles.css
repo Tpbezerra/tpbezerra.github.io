@@ -23,7 +23,7 @@ header
 
     margin-bottom: 65px;
 
-    border-bottom: 2px solid rgb(145, 0, 80);
+    border-bottom: 2px solid rgb(204, 1, 187);
     
     overflow: auto;
 }
@@ -59,7 +59,7 @@ header div
 
 #ActiveLink
 {
-    color: rgb(145, 0, 80);
+    color: rgb(204, 1, 187);
     font-weight: bold;
     border-bottom: 3px solid rgb(145, 0, 80);
 }
@@ -101,7 +101,7 @@ header div
 
 h2
 {
-    color: rgb(145, 0, 80);
+    color: rgb(204, 1, 187);
 
     font-weight: 600;
     font-size: 140%;
@@ -127,7 +127,7 @@ h2
 {
     background-color: #363636;
 
-    color: rgb(145, 0, 80);
+    color: rgb(204, 1, 187);
 
     padding-top: 5px;
     padding-bottom: 5px;
@@ -182,7 +182,7 @@ footer
 
     margin-top: 50px;
 
-    border-top: 2px solid rgb(145, 0, 80);
+    border-top: 2px solid rgb(204, 1, 187);
 }
 
 #Contact
