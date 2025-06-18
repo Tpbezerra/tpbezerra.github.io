@@ -23,7 +23,7 @@ header
 
     margin-bottom: 65px;
 
-    border-bottom: 2px solid rgb(204, 1, 187);
+    border-bottom: 2px solid rgb(1, 156, 245);
     
     overflow: auto;
 }
@@ -54,14 +54,14 @@ header div
 
 #Links a:hover
 {
-    border-bottom: 3px solid rgb(145, 0, 80);
+    border-bottom: 3px solid rgb(25, 69, 190);
 }
 
 #ActiveLink
 {
-    color: rgb(204, 1, 187);
+    color: rgb(1, 156, 245);
     font-weight: bold;
-    border-bottom: 3px solid rgb(145, 0, 80);
+    border-bottom: 3px solid rgb(25, 69, 190);
 }
 
 #Name
@@ -101,7 +101,7 @@ header div
 
 h2
 {
-    color: rgb(204, 1, 187);
+    color: rgb(1, 156, 245);
 
     font-weight: 600;
     font-size: 140%;
@@ -127,7 +127,7 @@ h2
 {
     background-color: #363636;
 
-    color: rgb(204, 1, 187);
+    color: rgb(1, 156, 245);
 
     padding-top: 5px;
     padding-bottom: 5px;
@@ -182,7 +182,7 @@ footer
 
     margin-top: 50px;
 
-    border-top: 2px solid rgb(204, 1, 187);
+    border-top: 2px solid rgb(1, 156, 245);
 }
 
 #Contact
